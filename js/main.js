@@ -130,7 +130,7 @@ jQuery(document).ready(function($){
 				if (typeof cheers.currentTime !== 'undefined')
 						cheers.currentTime = 0;
 				cheers.play();
-		}, 5700);
+		}, 6000);
 	});
 	
 	
