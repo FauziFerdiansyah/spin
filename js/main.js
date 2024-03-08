@@ -27,7 +27,7 @@ jQuery(document).ready(function($){
 			{
 				text: "Baju Lebaran 💃🏼",
 				value: 1,
-				message: "Kamu Dapat Hadiah 1 Stel Baju Lebaran (Baju & Celana)",
+				message: "Kamu Dapat Hadiah 1 Setel Baju Lebaran (Baju & Celana)",
 				background: "#f67b46",
 			},
 			{
