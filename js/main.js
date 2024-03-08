@@ -125,6 +125,12 @@ jQuery(document).ready(function($){
 		
 		$('.wheel-letter-spacing').superWheel('start','value',Math.floor(Math.random() * 2));
 		$(this).prop('disabled',true);
+
+		setTimeout(function() {
+				if (typeof cheers.currentTime !== 'undefined')
+						cheers.currentTime = 0;
+				cheers.play();
+		}, 5700);
 	});
 	
 	
@@ -146,10 +152,6 @@ jQuery(document).ready(function($){
 	
 	$('.wheel-letter-spacing').superWheel('onComplete',function(results){
 		if(results.value === 1){
-			if (typeof cheers.currentTime !== 'undefined')
-				cheers.currentTime = 0;
-					
-			cheers.play();
 			swal({
 				type: 'success',
 				title: "Selamat!", 
