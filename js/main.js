@@ -160,7 +160,7 @@ jQuery(document).ready(function($){
 		}else{
 			swal("Oops!", results.message, "error");
 		}
-		$('.wheel-letter-spacing-spin-button:disabled').prop('disabled',false).text('Spin');
+		$('.wheel-letter-spacing-spin-button:disabled').prop('disabled',false).html('Click<br>Spin The Wheel');
 		
 	});
 	
