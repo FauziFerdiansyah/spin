@@ -37,11 +37,17 @@ jQuery(document).ready(function($){
 				background: "#c17bd2",
 			},
 			{
-				text: "E-walet 500K 🤑",
+				text: "Gopay 500K 🤑",
 				value: 1,
 				message: "Kamu Dapat Hadiah Saldo E-walet 500 Ribu Gopay/Shopee",
 				background: "#02b7a6",
 			},
+			{
+				text: "Iphone SE 📱",
+				value: 1,
+				message: "Kamu Dapat Grand Price Hadiah Iphone SE ",
+				background: "#3DE7D3",
+			}
 			// {
 			// 	text: "20% OFF",
 			// 	value: 1,
