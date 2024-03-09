@@ -8,9 +8,9 @@ jQuery(document).ready(function($){
 		slices: [
 			
 			{
-				text: "Iphone SE 📱",
+				text: "Iphone SE 4📱",
 				value: 1,
-				message: "Sumpahhh Demi Apaa... Kamu Dapat Grand Price Hadiah Iphone SE ",
+				message: "Sumpahhh Demi Apaa... Kamu Dapat Grand Price Hadiah Iphone SE 4 (Tapi Nunggu Release)",
 				background: "#3DE7D3",
 			},
 			{
