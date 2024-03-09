@@ -6,17 +6,12 @@
 jQuery(document).ready(function($){
 	$('.wheel-letter-spacing').superWheel({
 		slices: [
+			
 			{
-				text: "Makan di Resto 🍱",
+				text: "Iphone SE 📱",
 				value: 1,
-				message: "Kamu Dapat Hadiah Makan Di Restoran Bebas Mau Makan Apa Max 500 Ribu",
-				background: "#f1c32f",
-			},
-			{
-				text: "Sepatu 👠",
-				value: 1,
-				message: "Kamu Dapat Hadiah 1 Pasang Sepatu",
-				background: "#f66e91",
+				message: "Sumpahhh Demi Apaa... Kamu Dapat Grand Price Hadiah Iphone SE ",
+				background: "#3DE7D3",
 			},
 			{
 				text: "Tas 👜",
@@ -25,10 +20,16 @@ jQuery(document).ready(function($){
 				background: "#09a7bf",
 			},
 			{
-				text: "Baju Lebaran 💃🏼",
+				text: "Baju Lebaran 💃",
 				value: 1,
 				message: "Kamu Dapat Hadiah 1 Setel Baju Lebaran (Baju & Celana)",
 				background: "#f67b46",
+			},
+			{
+				text: "Sepatu 👠",
+				value: 1,
+				message: "Kamu Dapat Hadiah 1 Pasang Sepatu",
+				background: "#f66e91",
 			},
 			{
 				text: "Uang 1/2 Juta 💰",
@@ -43,10 +44,10 @@ jQuery(document).ready(function($){
 				background: "#02b7a6",
 			},
 			{
-				text: "Iphone SE 📱",
+				text: "Makan di Resto 🍱",
 				value: 1,
-				message: "Kamu Dapat Grand Price Hadiah Iphone SE ",
-				background: "#3DE7D3",
+				message: "Kamu Dapat Hadiah Makan Di Restoran Bebas Mau Makan Apa Max 500 Ribu",
+				background: "#f1c32f",
 			}
 			// {
 			// 	text: "20% OFF",
